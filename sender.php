@@ -7,7 +7,7 @@
  **************************************
  */
 
-$to = 'YOUR_EMAIL_ADDRESS';
+$to = 'uakhilkrishna@gmail.com';
 $siteName = "YOUR_SITE_NAME";
 
 /*
